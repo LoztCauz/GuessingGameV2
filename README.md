@@ -1,3 +1,5 @@
-I am Franz Meinard N. Chang of BSIT2-B1. In this assignment Drill, I'm tasked to make enhancements to his base code from my prof, which is a Guessing Game. I added new features to the code such as User/Client, Difficulties from Easy to Hard, and Implementing a Scoring system. He also required the server to save the user's name and score of the chosen difficulty. I am not much of a programmer, but I did my best to ensure to finish this and watched a lot of tutorial videos on how to do it. This is my submission for the lab assignment, and this is my submission for Enhancing the Guessing Game using sockets.
+I am Franz Meinard N. Chang of BSIT2-B1. In this assignment Drill, I'm tasked to make enhancements to his base code from my prof, which is a Guessing Game. I added new features to the code such as User/Client, Difficulties from Easy to Hard, and Implementing a Scoring system. He also required the server to save the user's name and score of the chosen difficulty. I am not much of a programmer, but I did my best to ensure to finish this and watched a lot of tutorial videos on how to do it and had to use git bash to finish the repository. To run this codes you would need to run it by cmd, make sure you run the server first then client but I also submitted a video on how to run the code.This is my submission for the lab assignment, and this is my submission for Enhancing the Guessing Game using sockets.
 
--Enjoy
+-Enjoy, Thank you.
+
+PS: there is a slight bug on the server side of the code that sometimes say the client is disconnected.
